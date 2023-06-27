@@ -1,2 +1,2 @@
 # uniapp-practice
-uniapp联系的小项目
+uniapp练习的小项目
